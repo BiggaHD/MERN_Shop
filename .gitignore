@@ -7,7 +7,7 @@ node_modules/
 .pnp.js
 /frontend/node_modules
 /frontend/node_modules/
-frontend/public/images/*.jpg
+/frontend/public/images
 
 # testing
 /coverage
